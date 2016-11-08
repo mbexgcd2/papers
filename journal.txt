@@ -5,4 +5,5 @@ Title:
 Diabatic effects of ice crystals in mid-latitude cyclones
 
 Introduction:
-Cheesecake, stuff, blah blah
+Cheesecake, stuff, blah blah.
+Some literature already exists on this (Dearden et al 2016).
