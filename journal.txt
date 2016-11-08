@@ -1,6 +1,6 @@
 Author:
-Chris Dearden
-John Smith
+Chris Dearden, University of Manchester
+John Smith, University of Tadcaster
 
 Abstract:
 Overivew / synopsis of the work goes here
