@@ -2,6 +2,9 @@ Author:
 Chris Dearden
 John Smith
 
+Abstract:
+Overivew / synopsis of the work goes here
+
 Title:
 Diabatic effects of ice crystals in extratropical cloud systems
 
