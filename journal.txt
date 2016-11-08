@@ -8,3 +8,6 @@ Diabatic effects of ice crystals in extratropical cloud systems
 Introduction:
 Cheesecake, stuff, blah blah.
 Some literature already exists on this (Dearden et al 2016). Recent work by Smith et al also of interest here.
+
+Methodology:
+We used in-situ measurements collected during the TROSIAD campaign (Vaughan et al 2016) and did some modelling with the WRF model.
