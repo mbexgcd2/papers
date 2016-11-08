@@ -11,3 +11,6 @@ Some literature already exists on this (Dearden et al 2016). Recent work by Smit
 
 Methodology:
 We used in-situ measurements collected during the TROSIAD campaign (Vaughan et al 2016) and did some modelling with the WRF model.
+
+Conclusions:
+We found out some new stuff. It was great, but we need money.
