@@ -1,8 +1,9 @@
 Author:
 Chris Dearden
+John Smith
 
 Title:
-Diabatic effects of ice crystals in mid-latitude cyclones
+Diabatic effects of ice crystals in mid-latitude cyclones and supercells
 
 Introduction:
 Cheesecake, stuff, blah blah.
