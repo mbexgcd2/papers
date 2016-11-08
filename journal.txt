@@ -1,6 +1,6 @@
 Author:
-Chris Dearden
 John Smith
+Chris Dearden
 
 Abstract:
 Overivew / synopsis of the work goes here
